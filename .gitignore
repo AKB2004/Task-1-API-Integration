@@ -1,0 +1,56 @@
+# ===================================
+# .gitignore for Weather App
+# ===================================
+
+# API Keys and Environment Variables
+.env
+.env.local
+.env.production
+config.js
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Node modules (if you add Node.js later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Screenshots (optional - uncomment if you don't want to commit screenshots)
+# screenshots/
+
+# Personal notes
+notes.txt
+TODO.md
