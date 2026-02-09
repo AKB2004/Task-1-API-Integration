@@ -4,9 +4,9 @@
 
 * **Company:** CODTECH IT Solutions
 * **Name:** Abhinash Kumar Bej
-* **Intern ID:** CODE8111
+* **Intern ID:** CTIS4636
 * **Domain:** Full Stack Web Development Intern
-* **Duration:** 16 Weeks
+* **Duration:** 16 Weeks (05 February 2026 - 28 May 2026)
 * **Mentor:** Neela Santosh
 
 ---
