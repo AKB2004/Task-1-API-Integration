@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # CODTECH IT SOLUTIONS – Internship Project
 
 ## 📌 Internship Details
