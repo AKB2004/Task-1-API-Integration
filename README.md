@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # CODTECH IT SOLUTIONS – Internship Project
 
 ## 📌 Internship Details
@@ -107,3 +108,5 @@ Full Stack Web Development Intern
 CODTECH IT Solutions
 
 
+=======
+>>>>>>> f13224d344b695d63ef5bec054248f0ac5f79ffe
